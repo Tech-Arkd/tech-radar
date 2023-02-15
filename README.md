@@ -1,6 +1,6 @@
 ## Arkd Me Tech Radar 
 
-Stack : [https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/tech-arkd-me/tech-radar/master/tech-radar.csv](https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/tech-arkd-me/tech-radar/master/tech-radar.csv)
+Stack : [https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/Tech-Arkd/tech-radar/master/tech-radar.csv](https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/Tech-Arkd/tech-radar/master/tech-radar.csv)
 
 ## What is the Tech Radar?
 
